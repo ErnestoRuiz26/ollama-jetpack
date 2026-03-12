@@ -7,6 +7,7 @@
 # Ollama
 
 Start building with open models.
+Note: This is a forked version of ollama that has been modified to work with jetpack 4.6
 
 ## Download
 
